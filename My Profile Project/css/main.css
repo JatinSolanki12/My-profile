@@ -139,6 +139,17 @@ a:hover {
   visibility: hidden;
   opacity: 0;
 }
+
+#hero-area1 {
+  background: url('../images/blog.jpg') no-repeat 50%;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 230px 0;
+  color: #fff;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+  position: relative;
+}
+
 #hero-area {
   background: url('../images/slider.jpg') no-repeat 50%;
   background-size: cover;
